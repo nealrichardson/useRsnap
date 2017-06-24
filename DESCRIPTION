@@ -1,0 +1,22 @@
+Package: useRsnap
+Type: Package
+Title: An R Client for the 'Usersnap' API
+Description: The service 'Usersnap' is a web application error reporting tool.
+    This package provides an R interface to its API, allowing you to query it
+    and work with its responses.
+Version: 0.1.0
+Authors@R: person("Neal", "Richardson", role=c("aut", "cre"), email="neal.p.richardson@gmail.com")
+Author: Neal Richardson [aut, cre]
+Maintainer: Neal Richardson <neal.p.richardson@gmail.com>
+URL: https://github.com/nealrichardson/useRsnap
+BugReports: https://github.com/nealrichardson/useRsnap/issues
+License: MIT + file LICENSE
+Depends:
+    R (>= 3.0.0)
+Imports:
+    httr
+Suggests:
+    covr,
+    httptest
+RoxygenNote: 6.0.0
+Roxygen: list(markdown = TRUE)

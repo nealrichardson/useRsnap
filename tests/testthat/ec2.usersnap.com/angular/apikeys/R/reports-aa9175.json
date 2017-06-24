@@ -1,0 +1,242 @@
+{
+    "status": true,
+    "total": 3,
+    "data": [{
+        "pluginlist": [{
+            "filename": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "description": "",
+            "tooltip": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "name": "Chrome PDF Viewer"
+        }, {
+            "filename": "PepperFlashPlayer.plugin",
+            "description": "Shockwave Flash 26.0 r0",
+            "tooltip": "Shockwave Flash 26.0 r0 / PepperFlashPlayer.plugin",
+            "name": "Shockwave Flash"
+        }],
+        "rawimageurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "publicurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "tags": [],
+        "ip": "0.0.0.0",
+        "creation": "2017-06-23T20:29:23.579000+02:00",
+        "svgdata": "<svg style=\"overflow: hidden; position: relative;\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1417\" version=\"1.1\" height=\"1080\"><g transform=\"scale(1)\"></g></svg>",
+        "height": "1080",
+        "assignee": null,
+        "is_upload": false,
+        "sendercomment": "What's going on with the size of these bars??",
+        "referer": "https://redacted.com/",
+        "screensize": {
+            "width": 1920,
+            "height": 1200
+        },
+        "imageWidth": "1417",
+        "discussions": {},
+        "apikeySlug": "R",
+        "delivering": false,
+        "consoleurl": "/angular/console/aaa",
+        "id": "aaa",
+        "apikeyId": "12345",
+        "subject": "What's going on with the size of these bars??",
+        "delivered": false,
+        "unsubscribes": [],
+        "thumbnailurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "integration_backlink": null,
+        "subscribes": [],
+        "notes": [],
+        "comments": [],
+        "additional_info": "",
+        "width": "1417",
+        "senderemail": "doug@example.com",
+        "imageHeight": "1080",
+        "closed": false,
+        "listpreviewurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "viewport_data": {
+            "orientation": "L",
+            "devicePixelRatio": 1,
+            "retina": false,
+            "zoomLevel": 1,
+            "deviceWidth": 1417,
+            "contentWidth": 1417,
+            "contentHeight": 1080,
+            "mult": 1,
+            "deviceHeight": 1080
+        },
+        "ticketnr": 660,
+        "browser_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "browser": "Chrome 58 (macOS Sierra)"
+    }, {
+        "pluginlist": [{
+            "filename": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "description": "",
+            "tooltip": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "name": "Chrome PDF Viewer"
+        }, {
+            "filename": "widevinecdmadapter.dll",
+            "description": "Enables Widevine licenses for playback of HTML audio/video content. (version: 1.4.8.984)",
+            "tooltip": "Enables Widevine licenses for playback of HTML audio/video content. (version: 1.4.8.984) / widevinecdmadapter.dll",
+            "name": "Widevine Content Decryption Module"
+        }],
+        "rawimageurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "publicurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "tags": [],
+        "ip": "0.0.0.0",
+        "creation": "2017-06-22T10:34:03.979000+02:00",
+        "svgdata": "<svg style=\"overflow: hidden; position: relative;\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1280\" version=\"1.1\" height=\"591\"></svg>",
+        "height": "591",
+        "assignee": null,
+        "is_upload": false,
+        "sendercomment": "I'm encountering a problem",
+        "referer": "https://redacted.com/",
+        "screensize": {
+            "width": 1280,
+            "height": 720
+        },
+        "imageWidth": "1280",
+        "discussions": {
+            "1": {
+                "position": [756, 116, 756, 116],
+                "comments": [{
+                    "text": "Clicking here",
+                    "time": "2017-06-22T10:41:00.462000+02:00",
+                    "email": "steve@example.com",
+                    "name": null
+                }]
+            }
+        },
+        "apikeySlug": "R",
+        "delivering": false,
+        "consoleurl": "/angular/console/bbb",
+        "id": "bbb",
+        "apikeyId": "12345",
+        "subject": "I'm encountering a problem",
+        "delivered": true,
+        "unsubscribes": [],
+        "thumbnailurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "integration_backlink": null,
+        "subscribes": ["neal@example.com"],
+        "notes": [],
+        "comments": [{
+            "comment": "Hi Steve, thanks for the detailed report.",
+            "edited": false,
+            "userEmail": "neal@example.com",
+            "sentFromExternal": false,
+            "sentToReporter": true,
+            "user": "Crunch",
+            "editedBy": null,
+            "creation": "2017-06-22T22:47:51.668000+02:00"
+        }, {
+            "comment": "Thanks for the response",
+            "edited": false,
+            "userEmail": "steve@example.com",
+            "sentFromExternal": true,
+            "sentToReporter": false,
+            "user": "steve@example.com",
+            "editedBy": null,
+            "creation": "2017-06-23T01:55:50.105000+02:00"
+        }],
+        "additional_info": "",
+        "width": "1280",
+        "senderemail": "steve@example.com",
+        "imageHeight": "591",
+        "closed": false,
+        "listpreviewurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "viewport_data": {
+            "orientation": "L",
+            "devicePixelRatio": 1.5,
+            "retina": false,
+            "zoomLevel": 1,
+            "deviceWidth": 1280,
+            "contentWidth": 1280,
+            "contentHeight": 591,
+            "mult": 1,
+            "deviceHeight": 591
+        },
+        "ticketnr": 658,
+        "browser_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36",
+        "browser": "Chrome 59 (Windows 10)"
+    }, {
+        "pluginlist": [{
+            "filename": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "description": "",
+            "tooltip": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+            "name": "Chrome PDF Viewer"
+        }],
+        "rawimageurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "publicurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "tags": [],
+        "ip": "0.0.0.0",
+        "creation": "2017-06-21T20:59:16.436000+02:00",
+        "svgdata": "<svg style=\"overflow: hidden; position: relative;\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1574\" version=\"1.1\" height=\"993\"><g transform=\"scale(1)\"></g></svg>",
+        "height": "993",
+        "assignee": "xxx",
+        "is_upload": false,
+        "sendercomment": "Multiple areas of the menu disappear",
+        "referer": "https://redacted.com/",
+        "screensize": {
+            "width": 2560,
+            "height": 1440
+        },
+        "imageWidth": "1574",
+        "discussions": {},
+        "apikeySlug": "R",
+        "delivering": false,
+        "consoleurl": "/angular/console/ccc",
+        "id": "ccc",
+        "apikeyId": "12345",
+        "subject": "Multiple areas of the menu disappear",
+        "delivered": true,
+        "unsubscribes": [],
+        "thumbnailurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "integration_backlink": null,
+        "subscribes": ["mike@example.com"],
+        "notes": [],
+        "comments": [{
+            "comment": "Hi",
+            "edited": false,
+            "userEmail": "mike@example.com",
+            "sentFromExternal": false,
+            "sentToReporter": true,
+            "user": null,
+            "editedBy": null,
+            "creation": "2017-06-21T21:20:57.920000+02:00"
+        }, {
+            "comment": "Hi Mike,\n\n\n\n\n\nThe surprising behavior for me is",
+            "edited": false,
+            "userEmail": "patty@example.com",
+            "sentFromExternal": true,
+            "sentToReporter": false,
+            "user": "patty@example.com",
+            "editedBy": null,
+            "creation": "2017-06-22T00:41:21.240000+02:00"
+        }, {
+            "comment": "What we are trying to do is",
+            "edited": false,
+            "userEmail": "patty@example.com",
+            "sentFromExternal": true,
+            "sentToReporter": false,
+            "user": "patty@example.com",
+            "editedBy": null,
+            "creation": "2017-06-22T00:44:28.648000+02:00"
+        }],
+        "additional_info": "",
+        "width": "1574",
+        "senderemail": "patty@example.com",
+        "imageHeight": "993",
+        "closed": false,
+        "listpreviewurl": "https://usersnappublic.s3.amazonaws.com/redacted.png",
+        "viewport_data": {
+            "orientation": "L",
+            "devicePixelRatio": 1.25,
+            "retina": false,
+            "zoomLevel": 1,
+            "deviceWidth": 1574,
+            "contentWidth": 1574,
+            "contentHeight": 993,
+            "mult": 1,
+            "deviceHeight": 993
+        },
+        "ticketnr": 654,
+        "browser_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "browser": "Chrome 58 (macOS Sierra)"
+    }],
+    "offset": 0
+}
