@@ -4,13 +4,16 @@
 \alias{getReports}
 \title{Query Your Usersnaps}
 \usage{
-getReports(...)
+getReports(state = NULL, ...)
 }
 \arguments{
+\item{state}{Include "open" or "closed" reports. Default is \code{NULL}, which is
+queries both open and closed reports.}
+
 \item{...}{query parameters to include. There's no documentation, but known
 parameters are (1) includeapikey, which should always be \code{"false"}; (2)
-offset; (3) limit; and (4) search, which by default is
-\code{'[{"type":"state","id":"open"}]'}, the default in the Usersnap GUI. You
+offset; (3) limit; and (4) search, which gets filled in with the "state"
+query, if provided, like \code{'[{"type":"state","id":"open"}]'}. You
 can also specify a "project" to query against a project other than your
 default.}
 }
@@ -19,4 +22,9 @@ A list of report entries.
 }
 \description{
 Query Your Usersnaps
+}
+\examples{
+\dontrun{
+reps <- getReports(state="open")
+}
 }
